@@ -4,7 +4,7 @@ function App() {
   return (
   <div>
     <h1>My Todos</h1>
-    <Todo text='deneme'/>
+    <Todo text='git deneme'/>
     <Todo text='oldu mu?'/>
   </div>);
 }
